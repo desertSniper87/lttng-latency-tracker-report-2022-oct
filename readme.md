@@ -82,7 +82,7 @@ Here is a bunch of wifi drivers being broken on `June 2018`,
 - [Compilation error on kernel 4.15.0-20-generic (Ubuntu 18.04)](https://github.com/gnab/rtl8812au/issues/144)
 
 ### Tentative Fixes
-#### [https://forum.blackmagicdesign.com/viewtopic.php?f=3&t=68382]
+#### <https://forum.blackmagicdesign.com/viewtopic.php?f=3&t=68382>
 ```diff
 diff -u blackmagic-io-10.9.10a2.orig/bm_util.c blackmagic-io-10.9.10a2/bm_util.c  
 --- blackmagic-io-10.9.10a2.orig/bm_util.c   2018-01-08 02:46:14.000000000 +0100  
@@ -187,4 +187,4 @@ void _mali_osk_timer_setcallback(_mali_osk_timer_t *tim, _mali_osk_timer_callbac
 ```
 
 ---
-~torsho## 1. Kernel Latency Tracker 
+~torsho, 2022-10-13
