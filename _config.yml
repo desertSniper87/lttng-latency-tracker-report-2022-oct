@@ -1,4 +1,4 @@
-theme: hacker
+remote_theme: pages-themes/hacker
 plugins:
   - jekyll-relative-links
 relative_links:
