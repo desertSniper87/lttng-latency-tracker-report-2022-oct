@@ -8,7 +8,7 @@ There was a latency tracker repository created by [efficiOS](https://github.com/
 
 There is also a companion repository utilizing [latency-tracker](https://github.com/efficios/latency-tracker)
 
-- [https://github.com/fdoray/latency_tracker_demo/fdoray/latency_tracker_demo](https://github.com/fdoray/latency_tracker_demo/fdoray/latency_tracker_demo)
+- [https://github.com/fdoray/latency_tracker_demo](https://github.com/fdoray/latency_tracker_demo)
 
 In there, there are several scripts you can run for measuring kernelspace latency. If you look at this file, 
 
