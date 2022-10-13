@@ -1,17 +1,14 @@
-## Kernel Latency Tracker in LTTNG
-
 ## 1. Kernel Latency Tracker 
 
 There was a latency tracker repository created by [efficiOS](https://github.com/efficios) developer [Julien Desfossez](https://github.com/jdesfossez).
 
 	First, please look at the code if it would satisfy our need of determining thread run queue latency. 
 
-- https://github.com/efficios/latency-tracker
+- [https://github.com/efficios/latency-tracker](https://github.com/efficios/latency-tracker)
 
 There is also a companion repository utilizing [latency-tracker](https://github.com/efficios/latency-tracker)
 
-- https://github.comhttps://github.com/fdoray/latency_tracker_demo
-/fdoray/latency_tracker_demo
+- [https://github.com/fdoray/latency_tracker_demo/fdoray/latency_tracker_demo](https://github.com/fdoray/latency_tracker_demo/fdoray/latency_tracker_demo)
 
 In there, there are several scripts you can run for measuring kernelspace latency. If you look at this file, 
 
@@ -190,4 +187,4 @@ void _mali_osk_timer_setcallback(_mali_osk_timer_t *tim, _mali_osk_timer_callbac
 ```
 
 ---
-~torsho 
+~torsho
