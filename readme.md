@@ -24,7 +24,7 @@ But, these kernel events are not listed when calling
 lttng list -k
 ```
 
-You can find full list [here](/lttng#list-kernel-events).
+You can find full list [here](/lttng-latency-tracker-report-2022-oct/lttng#list-kernel-events).
 
 So, the kernel events come from [latency-tracker](https://github.com/efficios/latency-tracker). 
 
