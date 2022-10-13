@@ -24,7 +24,7 @@ But, these kernel events are not listed when calling
 lttng list -k
 ```
 
-You can find full list [here](/lttng#List_kernel_events).
+You can find full list [here](/lttng#list-kernel-events).
 
 So, the kernel events come from [latency-tracker](https://github.com/efficios/latency-tracker). 
 
@@ -187,4 +187,4 @@ void _mali_osk_timer_setcallback(_mali_osk_timer_t *tim, _mali_osk_timer_callbac
 ```
 
 ---
-~torsho
+~torsho## 1. Kernel Latency Tracker 
